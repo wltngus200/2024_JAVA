@@ -27,6 +27,9 @@ public class CompOperator {
 
         int a=5;
         float b=5;
+        System.out.println(a);
+        System.out.print(b);
+
 
     }
 }

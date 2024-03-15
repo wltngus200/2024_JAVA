@@ -4,8 +4,7 @@ public class ConditionalOperator {
     public static void main(String[] args){
         //삼항식, 조건식
         //식?T일때:F일때--->구분은 물음표(?)와 콜론(:)으로 한다.
-       String s="짝";
-       s="홀";
+       String s="";
        s=10%2==0?"짝":"홀";
        //T면 앞의 것을 사용
        System.out.println(s);
@@ -15,7 +14,7 @@ public class ConditionalOperator {
        String h="짝";
        h=num%2==0?"짝":"홀";
        //System.out.print(num%2==0?"짝":"홀")
-       System.out.print(num);
+       System.out.println(num);
        System.out.print(h);
     }
 }

@@ -16,9 +16,6 @@ public class CompOperator {
         r1=10>=9;
         System.out.println(r1);
 
-        int a=2;
-        boolean r2=a<=2;
-        System.out.println(r2);
 
         
     }

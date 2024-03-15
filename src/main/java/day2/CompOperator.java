@@ -16,7 +16,17 @@ public class CompOperator {
         r1=10>=9;
         System.out.println(r1);
 
+        r1=10>8;
+        System.out.println(r1);
 
-        
+        r1=10==10;
+        System.out.println(r1);
+
+        r1=10!=10;
+        System.out.println(r1);
+
+        int a=5;
+        float b=5;
+
     }
 }

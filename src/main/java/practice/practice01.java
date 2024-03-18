@@ -16,9 +16,11 @@ public class practice01 {
             sum+=ban[j];
             people++;
         }
+
         System.out.println("점수의 총 합은 "+sum+"점입니다.");
         System.out.println("점수의 평균은 "+(double)(sum/people)+"점입니다.");
         System.out.println(people);//위에서 j나 i를 재사용할 수 없어서 설정했음
+        //아마도 for 내에서 설정된 함수이기 때문일 듯.>>맞았다
 
     }
 }

@@ -2,7 +2,7 @@ package day3;
 
 import java.util.Scanner;
 
-public class MissonIf {
+public class MissionIf1 {
     public static void main(String[] args){
         Scanner scan=new Scanner(System.in);
         System.out.print("성별을 입력해주세요(남/여)");

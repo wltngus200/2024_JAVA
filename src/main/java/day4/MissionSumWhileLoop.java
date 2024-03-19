@@ -31,6 +31,9 @@ public class MissionSumWhileLoop {
                 System.out.println("종료");
                 System.out.println(sum)
           */
+
+        /*
+        //선생님 풀이
         while(true) {//첨은 true라서 돌아감 do while처럼.
             System.out.print("숫자를 입력해주세요.(종료:0)");
             input = scan.nextInt();
@@ -40,6 +43,6 @@ public class MissionSumWhileLoop {
         }
         System.out.println("종료");
         System.out.println(sum);
-
+        */
     }
 }

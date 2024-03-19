@@ -10,7 +10,7 @@ public class onemoretimeD3_MissionIf3_and_or {
         System.out.print("당신의 키를 입력해주세요");
         int height=scan.nextInt();
 
-        int standHeight=175;
+        /*int standHeight=175;
         System.out.print("당신은");
         if("남".equals(gender)||"여".equals(gender)){
             if("남".equals(gender)){
@@ -28,7 +28,7 @@ public class onemoretimeD3_MissionIf3_and_or {
             } else {
                 System.out.println("평균입니다.");
             }
-        System.out.println("-종료-");
+        System.out.println("-종료-");*/
 
         int standheight=161;
         if("남".equals(gender)){
@@ -44,6 +44,6 @@ public class onemoretimeD3_MissionIf3_and_or {
         } else {
             System.out.print("입니다.");
         }
-        }
+        //do while 대신 배운 while if 를 사용해서 키 평균과 비교
     }
 }

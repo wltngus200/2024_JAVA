@@ -64,5 +64,7 @@ public class practice03_array {
             System.out.println((i+1)+"번"+java[i]);
         }
 
+        //뭔가 이상한데
+
     }
 }

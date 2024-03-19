@@ -1,5 +1,5 @@
 package practice;
-public class practice02 {
+public class practice02_Make_a_Tree {
     public static <Jlabel> void main(String[] args){
         //크리스마스트리 만들기
         /*

@@ -14,6 +14,7 @@ public class InfinityWhileLoop {
             if (input == 0) { break;}//선생님 추천! 문장이 하나일땐 중괄호 생략가능
             }
             System.out.println("종료");
+        //
     }
 
 }

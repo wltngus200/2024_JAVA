@@ -34,6 +34,7 @@ public class MissionStarTriangle {
                 System.out.print("*");
             }
             System.out.println();
+            //
         }
     }
 }

@@ -22,7 +22,7 @@ public class WhileLoop {
             input=scan.nextInt();
         }//단점: 입력을 전부 더하고 싶다. 근데 인풋 초기화가 1이라서 1이 무조건 포함
         //1번정도는 그냥 넘어가줬으면한다 =do while
-
+        //
         System.out.println("종료");
     }
 }

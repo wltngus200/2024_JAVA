@@ -11,5 +11,7 @@ public class MissonSumForLoop {
             //for문을 돌면 계속 새거가 되기 때문
         }
         System.out.print(sum);
+        //
+
     }
 }

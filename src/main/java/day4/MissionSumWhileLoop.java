@@ -19,6 +19,6 @@ public class MissionSumWhileLoop {
             }
         System.out.println("종료");
         System.out.println(sum);
-
+        //
     }
 }

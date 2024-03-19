@@ -13,5 +13,6 @@ public class DoWhileLoop {
         } while(input!=0);
 
         System.out.println("종료");
+        //
     }
 }

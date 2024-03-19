@@ -1,4 +1,6 @@
 rootProject.name = 'Var'
 include 'src:main:practice'
 findProject(':src:main:practice')?.name = 'practice'
+include 'src:main:day4'
+findProject(':src:main:day4')?.name = 'day4'
 

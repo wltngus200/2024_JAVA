@@ -59,12 +59,11 @@ public class practice03_array {
         //배열을 직접 입력하는 법이 뭐더라
 
         int[] java={10,9,8,7,6,5};
-        System.out.print(java.length);
+        System.out.println(java.length);
         for(int i=0;i<java.length;i++){
             System.out.println((i+1)+"번"+java[i]);
         }
 
-        //뭔가 이상한데
 
     }
 }

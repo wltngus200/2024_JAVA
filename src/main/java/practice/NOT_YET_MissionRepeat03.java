@@ -1,6 +1,6 @@
 package practice;
 
-public class MissionRepeat03 {
+public class NOT_YET_MissionRepeat03 {
     public static void main(String[] args){
         //3. 반복으로 별찍기(사각형 삼각형 다이아몬드)
 
@@ -30,6 +30,7 @@ public class MissionRepeat03 {
         System.out.println("가로3*세로7의 직사각형 2");
         System.out.println();
 
+        //★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
         //3)마지막 줄 별이 6개인 6줄짜리 삼각형
         //우선 줄 개수는 6개여야 되니까
         for(int m=0;m<6;m++){
